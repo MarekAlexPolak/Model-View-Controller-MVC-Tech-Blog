@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-Go to the deployed application at the following link:
+Go to the deployed application at the following link: https://techblogmaker.herokuapp.com/
 
 The main page shows recent blog posts. 
 Clicking on the blog post will allow you to view it along with any comments.
